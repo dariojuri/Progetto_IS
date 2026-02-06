@@ -1,4 +1,4 @@
-package main.java.it.unisa.thetourist.dominio.enumerazioni;
+package thetourist.dominio.enumerazioni;
 
 public class StatoRichiesta {
 }

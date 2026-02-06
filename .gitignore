@@ -4,6 +4,14 @@ out/
 !**/src/test/**/out/
 .kotlin
 
+# Maven
+target/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
 ### Eclipse ###
 .apt_generated
 .classpath

@@ -1,4 +1,4 @@
-package main.java.it.unisa.thetourist.applicazione.dto;
+package thetourist.applicazione.dto;
 
 public class DatiVoloDTO {
 }

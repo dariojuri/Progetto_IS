@@ -1,4 +1,4 @@
-package main.java.it.unisa.thetourist.interfaccia;
+package thetourist.interfaccia;
 
 public class IAutorizzazione {
 }

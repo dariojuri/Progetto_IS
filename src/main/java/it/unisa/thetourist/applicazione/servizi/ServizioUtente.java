@@ -1,4 +1,4 @@
-package main.java.it.unisa.thetourist.applicazione.servizi;
+package thetourist.applicazione.servizi;
 
 public class ServizioUtente {
 }

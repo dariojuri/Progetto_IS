@@ -1,4 +1,4 @@
-package main.java.it.unisa.thetourist.persistenza.dao;
+package thetourist.persistenza.dao;
 
 public class RichiestaAssistenzaDAO {
 }

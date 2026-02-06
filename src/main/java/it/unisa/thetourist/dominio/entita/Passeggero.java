@@ -1,4 +1,4 @@
-package main.java.it.unisa.thetourist.dominio.entita;
+package thetourist.dominio.entita;
 
 public class Passeggero {
 }

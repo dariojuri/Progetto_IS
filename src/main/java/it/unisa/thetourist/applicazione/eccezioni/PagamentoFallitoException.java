@@ -1,4 +1,4 @@
-package main.java.it.unisa.thetourist.applicazione.eccezioni;
+package thetourist.applicazione.eccezioni;
 
 public class PagamentoFallitoException {
 }
