@@ -1,4 +1,3 @@
 package it.unisa.thetourist.dominio.entita;
 
-public class Volo {
-}
+public class Volo { }
