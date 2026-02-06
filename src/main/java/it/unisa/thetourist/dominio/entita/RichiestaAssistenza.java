@@ -1,4 +1,4 @@
-package thetourist.dominio.entita;
+package it.unisa.thetourist.dominio.entita;
 
 public class RichiestaAssistenza {
 }

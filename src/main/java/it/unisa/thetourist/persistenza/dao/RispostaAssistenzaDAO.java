@@ -1,4 +1,4 @@
-package thetourist.persistenza.dao;
+package it.unisa.thetourist.persistenza.dao;
 
 public class RispostaAssistenzaDAO {
 }

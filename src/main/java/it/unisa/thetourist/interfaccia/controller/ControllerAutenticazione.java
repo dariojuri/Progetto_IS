@@ -1,4 +1,4 @@
-package thetourist.interfaccia.controller;
+package it.unisa.thetourist.interfaccia.controller;
 
 public class ControllerAutenticazione {
 }
