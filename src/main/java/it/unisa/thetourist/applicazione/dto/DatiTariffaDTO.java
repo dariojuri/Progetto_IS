@@ -1,4 +1,4 @@
-package thetourist.applicazione.dto;
+package it.unisa.thetourist.applicazione.dto;
 
 public class DatiTariffaDTO {
 }

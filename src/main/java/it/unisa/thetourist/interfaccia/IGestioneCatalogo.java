@@ -1,4 +1,4 @@
-package thetourist.interfaccia;
+package it.unisa.thetourist.interfaccia;
 
 public class IGestioneCatalogo {
 }

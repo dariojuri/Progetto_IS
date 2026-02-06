@@ -1,4 +1,4 @@
 package it.unisa.thetourist.persistenza.integrazione.pagamento;
 
-public class SimulatorePagamentoClient {
+public class PaymentGateway {
 }

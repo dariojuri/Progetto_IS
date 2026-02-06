@@ -1,4 +1,4 @@
 package it.unisa.thetourist.interfaccia;
 
-public class IAssistenza {
+public class IRicercaVoli {
 }

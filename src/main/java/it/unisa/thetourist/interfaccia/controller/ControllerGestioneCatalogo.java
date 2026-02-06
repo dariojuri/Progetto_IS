@@ -1,4 +1,4 @@
 package it.unisa.thetourist.interfaccia.controller;
 
-public class ControllerUtente {
+public class ControllerGestioneCatalogo {
 }

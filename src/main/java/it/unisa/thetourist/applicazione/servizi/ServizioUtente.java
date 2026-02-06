@@ -1,4 +1,4 @@
-package thetourist.applicazione.servizi;
+package it.unisa.thetourist.applicazione.servizi;
 
 public class ServizioUtente {
 }

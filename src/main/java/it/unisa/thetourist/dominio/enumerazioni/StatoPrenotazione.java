@@ -1,4 +1,4 @@
-package thetourist.dominio.enumerazioni;
+package it.unisa.thetourist.dominio.enumerazioni;
 
 public class StatoPrenotazione {
 }

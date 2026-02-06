@@ -1,4 +1,4 @@
 package it.unisa.thetourist.persistenza.dao;
 
-public class PrenotazioneDAO {
+public class UtenteDAO {
 }
