@@ -1,5 +1,7 @@
 package it.unisa.thetourist.applicazione.dto;
+
 import java.time.LocalDate;
+
 public class CriteriRicercaDTO {
     private String partenza;
     private String arrivo;

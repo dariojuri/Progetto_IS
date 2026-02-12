@@ -1,4 +1,5 @@
 package it.unisa.thetourist.applicazione.servizi;
+
 import it.unisa.thetourist.applicazione.dto.CriteriRicercaDTO;
 import it.unisa.thetourist.applicazione.eccezioni.DatiNonValidiException;
 import it.unisa.thetourist.dominio.entita.Volo;
@@ -6,7 +7,9 @@ import it.unisa.thetourist.persistenza.dao.VoloDAO;
 
 import java.time.LocalDate;
 import java.util.List;
+
 public class ServizioRicercaVoli {
+
     private final VoloDAO voloDAO;
 
     public ServizioRicercaVoli(VoloDAO voloDAO) {
